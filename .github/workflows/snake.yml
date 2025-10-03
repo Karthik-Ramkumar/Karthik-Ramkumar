@@ -15,10 +15,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake-dark.svg
-          color_snake: "#39FF14"
-          color_dots: "#1db954,#161b22"   # bright green for active, dark for inactive
-          color_background: "#23de12"
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
