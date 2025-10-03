@@ -4,29 +4,30 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/output/pacman-contribution-graph.svg">
 </picture>
 
-✨ **who am i?**
+# 🤪 Welcome to my messy repository!
 
-* a dev? i think
+* a dev? no
 * a designer? i wish
 * a debugger? barely, i just guess
 * a problem solver? i create more problems
-* a tech enthusiast? like a cave diver until he finds the end
+* a tech enthusiast? yes always 
 
-︶꒦꒷♡꒷꒦︶
+---
+### 👤 Who Am I?
 
-✨ **currently:**
+* Hey there im Karthik
+* I am an ML enthusiast currently pursuing Artificial Intelligence at SVNIT,Surat 
 
-* debugging something i don't understand
-* pretending to know javascript
+---
+### ✨ Currently:
+
+* debugging something I don't understand
+* pretending to know JavaScript
 * probably on a call with my AI assistants
 
-︶꒦꒷♡꒷꒦︶
+✨ **I use these...**
 
-✨ **i use these... **
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql,sqlite,django,n8n" />
 
 ︶꒦꒷♡꒷꒦︶
 
@@ -43,10 +44,7 @@
 
 ✨ **i use these... when i remember how**
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode," />
 
 ︶꒦꒷♡꒷꒦︶
 
@@ -54,7 +52,7 @@
 
 <img src="https://img.shields.io/badge/Googling-white?style=flat-square&color=3A48C0&labelColor=3A48C0&label=Skill" alt="Googling" />
 <img src="https://img.shields.io/badge/Copy%20&%20Paste-white?style=flat-square&color=3A48C0&labelColor=3A48C0&label=Skill" alt="Copy & Paste" />
-<img src="https://img.shields.io/badge/Guessing-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="Guessing" />
+<img src="https://img.shields.io/badge/Guessing-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="piloting copilot and my agents" />
 <img src="https://img.shields.io/badge/Procrastinating-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="Procrastinating" />
 
 ︶꒦꒷♡꒷꒦︶
