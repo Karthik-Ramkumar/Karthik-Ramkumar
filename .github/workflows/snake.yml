@@ -18,7 +18,7 @@ jobs:
           outputs: dist/snake-dark.svg
           color_snake: "#39FF14"
           color_dots: "#1db954,#161b22"   # bright green for active, dark for inactive
-          color_background: "#0D1117"
+          color_background: "#23de12"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
