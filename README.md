@@ -29,8 +29,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql,sqlite,django,n8n" />
 
-︶꒦꒷♡꒷꒦︶
-
 ### ✨ **i might have gone to the library**
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -40,13 +38,9 @@
 [![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
-︶꒦꒷♡꒷꒦︶
-
 ### ✨ **i use these... when i remember how**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode," />
-
-︶꒦꒷♡꒷꒦︶
 
 ### ✨ **random fun facts:**
 
