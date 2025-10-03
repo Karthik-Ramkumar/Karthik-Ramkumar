@@ -16,9 +16,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake-dark.svg
-          color_snake: "#39FF14"      # neon green snake
-          color_dots: "#1DB954,#535353" # active/inactive dots (Spotify-like green/gray)
-          color_background: "#0D1117"  # GitHub dark background
+          color_snake: "#39FF14"
+          color_dots: "#1db954,#161b22"   # bright green for active, dark for inactive
+          color_background: "#0D1117"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
