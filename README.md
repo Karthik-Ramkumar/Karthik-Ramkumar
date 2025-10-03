@@ -4,12 +4,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/output/pacman-contribution-graph.svg">
 </picture>
 
-This style is created using Markdown for formatting, with emojis for the icons and shields/badges for the colored skill tags.
-
-Here is the Markdown code you need:
-
-Markdown
-
 ✨ **who am i?**
 
 * a dev? i think
@@ -18,7 +12,7 @@ Markdown
 * a problem solver? i create more problems
 * a tech enthusiast? like a cave diver until he finds the end
 
----
+︶꒦꒷♡꒷꒦︶
 
 ✨ **currently:**
 
@@ -26,32 +20,35 @@ Markdown
 * pretending to know javascript
 * probably on a call with my AI assistants
 
----
+︶꒦꒷♡꒷꒦︶
 
 ✨ **i use these... **
 
-[![MySQL](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 
----
+︶꒦꒷♡꒷꒦︶
 
-✨ **i pretend to be a designer sometimes**
+✨ **i might have gone to the library**
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-5264A0?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3B85A1?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
----
+︶꒦꒷♡꒷꒦︶
 
 ✨ **i use these... when i remember how**
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
----
+︶꒦꒷♡꒷꒦︶
 
 ✨ **real skills:**
 
@@ -60,7 +57,7 @@ Markdown
 <img src="https://img.shields.io/badge/Guessing-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="Guessing" />
 <img src="https://img.shields.io/badge/Procrastinating-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="Procrastinating" />
 
----
+︶꒦꒷♡꒷꒦︶
 
 ✨ **random fun facts:**
 
@@ -73,7 +70,7 @@ Markdown
 
 ✨ **my code philosophy:**
 
-```javascript
+javascript
 if (itWorks()) {
   dontTouchIt();
 } else {
