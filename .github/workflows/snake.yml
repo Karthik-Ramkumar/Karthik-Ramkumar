@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow pushing to output branch
+  contents: write
 
 jobs:
   build:
