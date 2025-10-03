@@ -16,22 +16,22 @@
 ### 👤 Who Am I?
 
 * Hey there im Karthik
-* I am an ML enthusiast currently pursuing Artificial Intelligence at SVNIT,Surat 
+* I am an ML enthusiast currently pursuing Artificial Intelligence at SVNIT,Surat
 
----
+︶꒦꒷♡꒷꒦︶
+
 ### ✨ Currently:
 
 * debugging something I don't understand
-* pretending to know JavaScript
 * probably on a call with my AI assistants
-
-✨ **I use these...**
+* making n8n workflows to automate life
+### ✨ **I use these...**
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql,sqlite,django,n8n" />
 
 ︶꒦꒷♡꒷꒦︶
 
-✨ **i might have gone to the library**
+### ✨ **i might have gone to the library**
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -42,22 +42,13 @@
 
 ︶꒦꒷♡꒷꒦︶
 
-✨ **i use these... when i remember how**
+### ✨ **i use these... when i remember how**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode," />
 
 ︶꒦꒷♡꒷꒦︶
 
-✨ **real skills:**
-
-<img src="https://img.shields.io/badge/Googling-white?style=flat-square&color=3A48C0&labelColor=3A48C0&label=Skill" alt="Googling" />
-<img src="https://img.shields.io/badge/Copy%20&%20Paste-white?style=flat-square&color=3A48C0&labelColor=3A48C0&label=Skill" alt="Copy & Paste" />
-<img src="https://img.shields.io/badge/Guessing-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="piloting copilot and my agents" />
-<img src="https://img.shields.io/badge/Procrastinating-white?style=flat-square&color=CC6633&labelColor=CC6633&label=Skill" alt="Procrastinating" />
-
-︶꒦꒷♡꒷꒦︶
-
-✨ **random fun facts:**
+### ✨ **random fun facts:**
 
 * my error messages are 90% typos
 * i don't read documentation, i just copy-paste and pray
@@ -66,17 +57,9 @@
 
 ---
 
-✨ **my code philosophy:**
-
-javascript
-if (itWorks()) {
-  dontTouchIt();
-} else {
-  googleFix();
-}
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/refs/heads/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/refs/heads/output/github-snake.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/refs/heads/output/github-snake.svg">
 </picture>
+---
