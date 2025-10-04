@@ -56,4 +56,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/refs/heads/output/github-snake.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karthik-Ramkumar/Karthik-Ramkumar/refs/heads/output/github-snake.svg">
 </picture>
----
